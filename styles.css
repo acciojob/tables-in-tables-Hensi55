@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+table,td,tr,th{
+	border:1px solid black;
+}
+.Data1{
+	width:250px;
+	height:250px;
+}
+.Row1{
+	align-items:center;
+}
+.tab1{
+	width:320px;
+	
+}
+.Data2{
+	height:100px;
+}
